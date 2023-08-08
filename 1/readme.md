@@ -33,7 +33,7 @@ Generacion de carpetas y estructuras de carpetas basicas, con comandos en window
 
 ---
 
-Posibles proyectos a desarrollar
+Posibles proyectos a desarrollar en clase
 * Verduleria
 * PortFolio
 * Bomberos Voluntarios
