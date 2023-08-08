@@ -31,4 +31,10 @@ Generacion de carpetas y estructuras de carpetas basicas, con comandos en window
 - Linux
 - Windows
 
+---
 
+Posibles proyectos a desarrollar
+* Verduleria
+* PortFolio
+* Bomberos Voluntarios
+* Cerveceria | Vinoteca
