@@ -1,6 +1,12 @@
 HTML Clase 2
 ----
 
+Temario de clase:
+*   Listas y enlaces.
+*   Rutas absolutas y relativas.
+*   Elementos en bloque y en línea.
+
+
 Estructura base de carpetas a trabajar : 
 
 ```
