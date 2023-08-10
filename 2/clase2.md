@@ -18,8 +18,10 @@ HTML Clase 2
 </html>
 
 ```
+---
 
-tags comunes a aprender :
+### tags comunes a aprender :
+
 h1 ---> h6 :: encabezados necesarios para dar informacion a html que es un encabezadp
 
 p    :: parrafos
@@ -32,15 +34,6 @@ i        :: cursiva
 em       :: cursiva con importancia semantica
 
 u        :: subrayado
-
----
-
-
-Temario de clase:
-*   Listas y enlaces.
-*   Rutas absolutas y relativas.
-*   Elementos en bloque y en línea.
-
 
 ---
 Estructura base de carpetas a trabajar : 
@@ -59,10 +52,41 @@ Estructura base de carpetas a trabajar :
 
 ```
 ---
+
+Temario de clase:
+*   Listas y enlaces.
+*   Rutas absolutas y relativas.
+*   Elementos en bloque y en línea.
+
+---
 Ejemplos:
 
+### lista >> que es una lista? basicamente eso >> una lista tanto ordenada y sin tipo de orden cardinal
+
+ol    ::    ordered list
+ul    ::    unordered list
+
+li    ::    items de la lista
+
+dl    ::    definition list (muy bueno cuando tenemos que desarrollar items de informacion)
+
+dl
+    dt >> header
+        dd >> sub-items
 
 
+### enlaces | anchors
+
+a    :: anchor - linkers
+Son linkers que nos permiten relacionar tanto sectores como paginas
+-    atributos importantes de los anchors
+     -    href        ::    #id | email*
+     -    target      ::    _blank , _parent ... etc
+     -    download    ::    descarga desde un hipervinculo
+
+* _email >> mailto:<mail@mail.com>?subject=Contancto de informacion?body=Quiero recibir un email con informacion_
+  ++ Detalle a tener en cuenta :: siempre te lo tiende a enviar a *SPAM*
+* _[data-extra sobre el mailto](https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html)_
 ---
 Lista para deploy
 
