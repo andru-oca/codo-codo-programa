@@ -101,7 +101,7 @@ _++ Detalle a tener en cuenta :: siempre te lo tiende a enviar a *SPAM*_
       ```
 ### RUTAS RELATIVAS Y ABSOLUTAS
 
--    ABOSLUTA : */usr/user-name/home/img/logos/html.png*
+-    ABSOLUTA : */usr/user-name/home/img/logos/html.png*
 -    RELATIVA :  *./img/logos/html.png*
 
 ---
