@@ -89,6 +89,21 @@ Son linkers que nos permiten relacionar tanto sectores como paginas
 _++ Detalle a tener en cuenta :: siempre te lo tiende a enviar a *SPAM*_
 
 * _[data-extra sobre el mailto](https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html)_
+
+* Detalles muy interesantes:
+    * Elementos en linea
+      ```
+        - <br>, <a>, <img>, <span>, <b>, <strong>, <mark>, <sub>
+      ```
+    * Elementos en bloque
+      ```
+        - <div>, <p>, <h1>..<h6>, <ul>, <ol>, <li>, <table>, <form>     
+      ```
+### RUTAS RELATIVAS Y ABSOLUTAS
+
+-    ABOSLUTA : */usr/user-name/home/img/logos/html.png*
+-    RELATIVA :  *./img/logos/html.png*
+
 ---
 Lista para deploy
 
