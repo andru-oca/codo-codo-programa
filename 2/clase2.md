@@ -85,7 +85,9 @@ Son linkers que nos permiten relacionar tanto sectores como paginas
      -    download    ::    descarga desde un hipervinculo
 
 * _email >> mailto:<mail@mail.com>?subject=Contancto de informacion?body=Quiero recibir un email con informacion_
-  ++ Detalle a tener en cuenta :: siempre te lo tiende a enviar a *SPAM*
+
+_++ Detalle a tener en cuenta :: siempre te lo tiende a enviar a *SPAM*_
+
 * _[data-extra sobre el mailto](https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html)_
 ---
 Lista para deploy
