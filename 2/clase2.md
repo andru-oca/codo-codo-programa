@@ -1,5 +1,40 @@
 HTML Clase 2
 ----
+## Repaso Clase 1
+-    Template de una Pagina Web con las etiquetas semanticas que se realiza como formato general de todo proyecto.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nombre WebSite</title>
+</head>
+<body>
+    <header></header>
+    <main></main>
+    <footer></footer>
+</body>
+</html>
+
+```
+
+tags comunes a aprender :
+h1 ---> h6 :: encabezados necesarios para dar informacion a html que es un encabezadp
+
+p    :: parrafos
+br   :: salto de linea o quiebre
+
+b        :: negrita
+strong   :: negrita con importancia semantica
+
+i        :: cursiva 
+em       :: cursiva con importancia semantica
+
+u        :: subrayado
+
+---
+
 
 Temario de clase:
 *   Listas y enlaces.
@@ -7,23 +42,33 @@ Temario de clase:
 *   Elementos en bloque y en línea.
 
 
+---
 Estructura base de carpetas a trabajar : 
 
 ```
-nombre_project
-index.html
-└── assets
-    ├── css
-    ├── js
-    └── media
-        ├── audio
-        ├── images
-        └── video
-└── pages
+└──nombre_project
+    index.html
+    └── pages
+    └── assets
+        ├── css
+        ├── js
+        └── media
+            ├── audio
+            ├── images
+            └── video
 
 ```
 ---
+Ejemplos:
 
+
+
+---
+Lista para deploy
+
+*    [Deploy en Netlify](https://www.netlify.com/?attr=homepage-modal)
+*    [Deploy en Github Actions](https://pages.github.com/)
+---
 
 Herramientas para maquetado del proyecto : 
 * [FIGMA](https://www.figma.com/)
@@ -32,8 +77,16 @@ Herramientas para maquetado del proyecto :
 
 
 ---
+Tarea para el Proyecto:
+- Continuar con la formación de los grupos/equipos de 4 personas.
 
-Seleccion de proyecto a trabajar
+- Los estudiantes deberán armar una única planilla por comisión
+para comenzar a anotarse. Luego lo informarán a través de un
+formulario de Google. (:check)
+
+- Comenzar a diagramar los layouts/estructura de cada página del
+sitio web.
+
+- Seleccion final del proyecto a trabajar
 {{ Proyecto a trabajar }}
-
 ---
